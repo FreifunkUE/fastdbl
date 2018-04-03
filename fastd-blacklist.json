@@ -5,5 +5,9 @@
       "pubkey": "1111111111111111111111111111111111111111111111111111111111111111",
       "comment": "2015-02-15 Example Key // MA"
     },
+    {
+      "pubkey": "a6f9b4fd4bb2fca6c2b9ec224388affd798620ca5d3448d5a79ac3be1cbc22bd",
+      "comment": "2018-04-03 ffue-Sparkasse-Dannenberg-2 // MA"
+    },
   ]
 }
